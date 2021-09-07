@@ -1,4 +1,4 @@
-# Angular8SpringBoot
+# Angular8 HTTP Interceptor Example
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
 
